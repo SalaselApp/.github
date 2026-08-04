@@ -1,9 +1,10 @@
 <div align="center">
 
-[![banner](https://pbs.twimg.com/profile_banners/2004456655623446528/1767036918/1500x500)]()
+[![لافتة](../img/banner.ar.png)]()
 
-[![تطبيق](https://img.shields.io/badge/Salasel-App-2a492d)]()
-[![وصف](https://img.shields.io/badge/YouTube-Playlists-c9aa65)]()
+[![يوتيوب](https://img.shields.io/badge/YouTube-Playlists-3da35d)]()
+[![تعليم](https://img.shields.io/badge/Beneficial-Learning-96e072)]()
+[![تطبيق](https://img.shields.io/badge/Salasel-App-e8fccf)]()
 
 <div dir="rtl">
 
@@ -11,8 +12,7 @@
 
 <div align="right">
 
-**تطبيق سلاسل** تطبيق شبكي يقدّم قوائم تشغيل مختارة بعناية من YouTube لبناء الإنسان،
-مع ملاحظات ذاتية مرتبطة بزمن كل لقطة داخل المقطع، ونظام تتبّع للتقدّم في القوائم ومقاطعها
+**تطبيق سلاسل** تطبيق شبكي يقدّم قوائم تشغيل مختارة بعناية من YouTube لبناء الإنسان، مع ملاحظات ذاتية مرتبطة بزمن كل لقطة داخل المقطع، ونظام تتبّع للتقدّم في القوائم ومقاطعها
 
 </div>
 
