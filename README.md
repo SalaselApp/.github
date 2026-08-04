@@ -6,6 +6,8 @@
 [![تعليم](https://img.shields.io/badge/Beneficial-Learning-96e072)]()
 [![تطبيق](https://img.shields.io/badge/Salasel-App-e8fccf)]()
 
+[English](./README.en.md)
+
 <div dir="rtl">
 
 # تطبيق سلاسل
